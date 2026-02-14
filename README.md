@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack web and machine learning with python
 - 🌱 I’m currently learning web dev and python 
 - 💞️ I’m looking to collaborate on web dev or python programming
-- 📫 How to reach me :abhayrawat6189@gmail.com
+- 📫 How to reach me :abhayrawat.nxt@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
